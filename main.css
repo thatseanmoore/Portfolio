@@ -1,0 +1,61 @@
+header {
+    padding-top: 12rem;
+    background-color: rgb(236, 222, 222);
+    padding-bottom: 5.25rem;
+    border-bottom: 5px solid black;
+}
+
+header h1{
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+#about {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-bottom: 5px solid black;
+}
+
+#aboutText{
+    font-size: 18px;
+    padding: 20px 20px 2.5px 20px;
+    background-color: #d3d3d3;
+    border-radius: 25px;
+}
+
+#portfolio {
+    border-bottom: 5px solid black;
+    padding-bottom: 15px;
+}
+
+.card {
+    background-color: white;
+    margin: 10px 5px 0 5px;
+    
+}
+.card-body{
+    background-color: white;
+    color: black;
+    border-radius: 25px;
+    margin: 5px 5px 0 0;
+}
+
+#contact{
+    background-color: #d3d3d3;
+
+}
+
+#contact img {
+    height: 50px;
+    margin: 15px;
+}
+
+.contactForm button {
+    margin-top: 10px;
+}
+
+footer {
+    padding: 15px 15px;
+    background-color: black;
+    color: white;
+}
